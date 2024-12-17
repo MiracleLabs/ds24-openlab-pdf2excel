@@ -1,16 +1,16 @@
 # DS24 Open Lab | PDF Invoice Data Extraction into Excel File
 
-This repository contains the lab for demonstrating PDF Invoice Data Extraction into Excel File. It is one of the labs brought to you by Miracle's Innovation Labs.
+This repository contains the lab for demonstrating PDF Invoice Data Extraction into Excel File. It is one of the open labs brought to you by Miracle's Innovation Labs.
 
 ## Technologies Overview
 
 The following are the technologies that are used in this lab. Any prior knowledge of these technologies will accelerate your pace of learning.
 
-• UI Path - Automation Tool
+• UiPath - Automation Tool
 
 ## Important Links
 
-• Access/Download UiPath Cloud Platform from https://cloud.uipath.com/
+• Access UiPath Cloud Platform from https://cloud.uipath.com/
 
 ## Repository Contents
 
